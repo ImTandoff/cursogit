@@ -12,9 +12,9 @@
   "author": "ME:)",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "json-server": "^0.16.3",
-    "jsonwebtoken": "^8.1.0"
+    "body-parser": "^2.2.2",
+    "json-server": "^0.17.4",
+    "jsonwebtoken": "^9.0.3"
   },
   "devDependencies": {
     "jest": "^30.3.0"
